@@ -5,8 +5,7 @@ using UnityEngine.AI;
 
 public class AI : MonoBehaviour
 {
-// > cuando no este en el rango                < cuando este en el area
-   //Intentar que se quede quieto despues de perseguir
+
     enum State
     {
         Patrolling,
